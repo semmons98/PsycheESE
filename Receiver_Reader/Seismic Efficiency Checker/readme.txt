@@ -6,3 +6,4 @@ This python script checks the seismic efficiency of your impact.
 Make sure to adjust the input energy and the number of sample points (the max_rows= part of the load function) to fit you project.
 It is likely you will not get an exact value depending on the number of sample points used,
 but you can use this for order of magnitude estimates
+Note that this python script was adapted from an older version of the SeisSol_Receiver_Reader.py script.
