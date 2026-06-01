@@ -1,5 +1,8 @@
 SeisSol outputs simulated seismometer data using the receiver function.
+
 By default, these files include 7 columns for each data point: time, 6 stress values, and 3 velocity values.
+
 The python script here will read these files and take the derivative of the ground velocity data to get the ground acceleration,
 which you can then use for plots or other calculations.
+
 Note that it assumes SeisSol's default dt 0.0005 seconds is used. Change this variable if you use a different dt.
