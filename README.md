@@ -1,4 +1,6 @@
 # PsycheESE
 User guide for using SeisSol to study impact seismology on small bodies. Example mesh files and output animations from the PsychESE project as well as some useful python scripts for checking and processing output data. 
 
+Link to American Astronomical Society iPoster: (will add day of poster presentation) (248th meeting - June 2026)
+
 This work was created in partial fulfillment of Arizona State University Capstone Course “SES 410/411″. The work is a result of the Psyche Student Collaborations component of NASA’s Psyche Mission (https://psyche.ssl.berkeley.edu). “Psyche: A Journey to a Metal World” [Contract number NNM16AA09C] is part of the NASA Discovery Program mission to solar system targets. Trade names and trademarks of ASU and NASA are used in this work for identification only. Their usage does not constitute an official endorsement, either expressed or implied, by Arizona State University or National Aeronautics and Space Administration. The content is solely the responsibility of the authors and does not necessarily represent the official views of ASU or NASA.
