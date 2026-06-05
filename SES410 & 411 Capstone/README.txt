@@ -2,4 +2,4 @@ This folder contains the milestone presentations as well as the final report of 
 highlighting the changes that were made to our project throughout the year. During our first semester,
 we built the SRR, PDR, and CDR. By the end of our second semester, we developed our Final Presentation and Final Report. 
 These files may contain errors, or information that changed later in the project, they are here for the purpose of 
-illustrating our groups thought and work process.
+illustrating our group's thought and work process.
